@@ -9,5 +9,5 @@ Search Bar
 Content 
   Top Mountains
   Most Viewed
-  Most Popular 
-  
+  Most Popular.
+  User will be able to create their account, sign up using google signin API and login to access their accounts and profile. 
