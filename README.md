@@ -14,3 +14,5 @@ Content
 User will be able to perform Create, Read, and Update operation on the API created for mountain information. 
 Other users would have a feature of request to update the mountain info that has been falsely reported by other user.
 User will be able to post a comment and like/dislike the mountain.
+
+MERN Stack will be used to create this web app.
