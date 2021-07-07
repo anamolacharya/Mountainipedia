@@ -15,4 +15,4 @@ User will be able to perform Create, Read, and Update operation on the API creat
 Other users would have a feature of request to update the mountain info that has been falsely reported by other user.
 User will be able to post a comment and like/dislike the mountain.
 MongoDB will be used as database and mongoose will be used to create schemas.
-
+Agile Software development methodology will be implemented. 
