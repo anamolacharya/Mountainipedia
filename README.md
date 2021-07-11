@@ -16,4 +16,4 @@ Other users would have a feature of request to update the mountain info that has
 User will be able to post a comment and like/dislike the mountain.
 MongoDB will be used as database and mongoose will be used to create schemas.
 React will be used to create a beautiful UI using components structures. 
-Agile Software development methodology will be implemented. 
+Agile Software development methodology will be implemented with weekly sprint week. 
