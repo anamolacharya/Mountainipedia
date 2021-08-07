@@ -18,4 +18,4 @@ User will be able to post a comment and like/dislike the mountain.
 MongoDB will be used as database and mongoose will be used to create schemas.
 React will be used to create a beautiful UI using components structures. 
 Express will be used to create RESTful API.
-Agile Software development methodology will be implemented with weekly sprint week. A MVP for the product will be published and features will be added accordingly.
+Agile Software development methodology will be implemented with weekly sprint week. A MVP for the product will be published and features will be added accordingly.  Acharya
