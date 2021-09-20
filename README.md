@@ -20,4 +20,4 @@ React will be used to create a beautiful UI using components structures.
 Express will be used to create RESTful API.
 Agile Software development methodology will be implemented with weekly sprint week. A MVP for the product will be published and features will be added accordingly. 
 
-Anamol
+
